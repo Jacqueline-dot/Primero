@@ -1,0 +1,18 @@
+.sideral
+{
+	color: red;
+}
+
+input
+{
+	background-color: greenyellow;
+	color: grey;
+}
+
+img
+{
+	border-radius: 50%;
+	height: 350px;
+	width: 550px;
+	filter: drop-shadow(2px 4px 6px black);
+}
